@@ -56,4 +56,4 @@ Si no quieres que se apague usa bash start.sh
 - [Grupo de WhatsApp](https://chat.whatsapp.com/F8a1wlFtr5z9WY92Wde1zN)
 - [Instagram](https://instagram.com/im.felix409)
 - [YouTube ](https://youtube.com/c/Felixcrack409)
-- [Whatsapp ](https://wa.me/18138999999)
+- [Whatsapp ](https://wa.me/573245104054)
