@@ -34,8 +34,8 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > pkg install yarn
 > termux-setup-storage
-> git clone https://github.com/Fxmods/FX-MD-LTE.git
-> cd FX-MD-LTE
+> git clone https://github.com/Herrera251/bosysuit25
+> cd bosysuit25
 > yarn
 > npm start
 
@@ -45,7 +45,7 @@ Si no quieres que se apague usa bash start.sh
 
 ## RDP/VPS USER
 ```bash 
-> git clone git clone https://github.com/Herrera251/bosysuit25
+> git clone https://github.com/Herrera251/bosysuit25
 > cd bosysuit25
 > npm install
 > npm start
