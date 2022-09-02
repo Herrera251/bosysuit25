@@ -7,7 +7,7 @@
 <p align="center">
     <a href="https://Fxmods.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+bodysuit251+Official+🙏"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+bodysuit+Official+🙏"
             alt="bot asistente"
         />
     </a>
